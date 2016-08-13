@@ -1,2 +1,2 @@
-# fcc-random-quote-machine
-generate quotes randomly
+# free-code-camp-random-quote-machine
+
